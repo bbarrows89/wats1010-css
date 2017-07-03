@@ -1,8 +1,20 @@
 /* This is where styles are defined for your page. */
 /* One style is provided as example. */
 
-h1 {
-    color: green;
+header.page-header {
+    background: gray;
+}
+
+aside.more-info {
+    background: yellow;
+}
+
+section#content {
+    background: green;
+}
+
+footer.page-footer {
+    background: pink;
 }
 
 aside.more-info img {
