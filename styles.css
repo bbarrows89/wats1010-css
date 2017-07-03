@@ -4,3 +4,7 @@
 h1 {
     color: green;
 }
+
+.poem {
+    list-style-type: none;
+}
