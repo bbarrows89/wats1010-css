@@ -2,19 +2,19 @@
 /* One style is provided as example. */
 
 header.page-header {
-    background: gray;
+    background: lightgray;
 }
 
 aside.more-info {
-    background: yellow;
+    background: lightgoldenrodyellow;
 }
 
 section#content {
-    background: green;
+    background: lightskyblue;
 }
 
 footer.page-footer {
-    background: pink;
+    background: lightpink;
 }
 
 aside.more-info img {
