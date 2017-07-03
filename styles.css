@@ -5,6 +5,11 @@ h1 {
     color: green;
 }
 
+aside.more-info img {
+    width: 150px;
+    height: auto;
+}
+
 .poem {
     list-style-type: none;
 }
