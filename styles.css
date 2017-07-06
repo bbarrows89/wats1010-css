@@ -54,3 +54,9 @@ aside.more-info img {
     font-size: large;
     line-height: 1.8;
 }
+
+.poem li::first-letter {
+    font-size: 130%;
+    color: #ff5050;
+    font-weight: bold;
+}
