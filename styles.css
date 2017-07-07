@@ -9,6 +9,10 @@ body {
     font-family: serif;
 }
 
+p {
+    font-family: Monaco;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: sans-serif;
 }
@@ -44,6 +48,10 @@ footer.page-footer {
 aside.more-info img {
     width: 150px;
     height: auto;
+}
+
+aside {
+    float: right;
 }
 
 .poem {
