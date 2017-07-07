@@ -5,7 +5,7 @@ body {
     background-image: url('images/hard-paper-texture.jpg');
     background-position: bottom right;
     background-repeat: repeat-x;
-    background-color: cornsilk;
+    background-color: #7796CB;
     font-family: serif;
 }
 
@@ -13,12 +13,25 @@ p {
     font-family: Monaco;
 }
 
+a {
+    font-family: monospace;
+    color: black;
+    font-size: 120%;
+}
+
+a:hover {
+    font-size: 160%;
+    text-decoration: none;
+    color: #ff5050;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: sans-serif;
 }
 
 header.page-header {
-    background: lightgray;
+    background: #576490;
+    color: #D1D2F9;
 }
 
 .page-header h1 {
@@ -34,15 +47,16 @@ header.page-header {
 }
 
 aside.more-info {
-    background: lightgoldenrodyellow;
+    background: #D1D2F9;
+
 }
 
 section#content {
-    background: lightskyblue;
+    background: #A3BCF9;
 }
 
 footer.page-footer {
-    background: lightpink;
+    background: #D1D2F9;
 }
 
 aside.more-info img {
