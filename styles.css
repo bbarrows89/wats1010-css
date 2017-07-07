@@ -34,8 +34,9 @@ header.page-header {
     color: #D1D2F9;
 }
 
-.page-header h1 {
+.page-header h1, p {
     margin-bottom: 0;
+    margin-left: 3%;
 }
 
 .page-header p {
@@ -66,6 +67,8 @@ aside.more-info img {
 
 aside {
     float: right;
+    padding-top: 15px;
+    margin-top: 15px;
 }
 
 .poem {
